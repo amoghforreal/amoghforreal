@@ -2,8 +2,8 @@
 
 💻 BTech CSE student at Manipal University Jaipur  
 🚀 President of COSMOS – The Science Club of MUJ  
-🧠 Learning Python, Machine Learning, and DSA  
-📹 I share my journey and projects on [LinkedIn](https://www.linkedin.com/in/amogh-bajpai-2740211b1/)
+🧠 Python, Machine Learning, and DSA  
+📹 Journey and Projects on [LinkedIn](https://www.linkedin.com/in/amogh-bajpai-2740211b1/)
 
 
 ## 🌐 Socials:
